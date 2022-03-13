@@ -1,0 +1,15 @@
+avaliacao#menuPrincipal {
+	background-color:blue;
+}
+
+#menuPrincipal a{
+	color:white;
+}
+
+.container{
+	padding: 70px 0;
+}
+
+tr{
+	text-align:center;
+}
